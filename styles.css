@@ -27,6 +27,7 @@ body {
     background-color: #1E1E1E;
     color: #00FF00; 
     padding: 10px; 
+    box-sizing: border-box;
 }
 
 .buttons {
